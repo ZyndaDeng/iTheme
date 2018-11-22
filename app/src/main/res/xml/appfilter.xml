@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <item component="ComponentInfo{com.android.browser/com.tencent.mtt.SplashActivity}"
+        drawable="browser" />
+    <item component="ComponentInfo{com.android.calculator}"
+        drawable="calculator2" />
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}"
+        drawable="calculator" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="calendar" />
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
+        drawable="chrome" />
+
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}"
+        drawable="dialtacts" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="contacts" />
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}"
+        drawable="deskclock" />
+    <item component="ComponentInfo{com.android.email}"
+        drawable="email" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
+        drawable="mms" />
+
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="settings" />
+    <item component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}"
+        drawable="minimap" />
+    <item component="ComponentInfo{com.evenwell.android.memo/com.evenwell.android.memo.activity.MainActivity}"
+        drawable="memo" />
+    <item component="ComponentInfo{com.evenwell.fmradio/com.evenwell.fmradio.FMRadioActivity}"
+        drawable="fmradio" />
+    <item component="ComponentInfo{com.evenwell.gallery/com.evenwell.gallery.app.Gallery}"
+        drawable="gallery" />
+
+    <item component="ComponentInfo{com.evenwell.systemdashboard.mobileassistant/com.evenwell.systemdashboard.MainActivity}"
+        drawable="mobileassistant" />
+    <item component="ComponentInfo{com.evenwell.weather/com.nbc.willcloud.athenasdk.views.LoadingActivity}"
+        drawable="weather" />
+    <item component="ComponentInfo{com.hmdglobal.appstore/com.siui.android.appstore.MainActivity}"
+        drawable="appstore" />
+    <item component="ComponentInfo{com.hmdglobal.camera2/com.android.camera.CameraLauncher}"
+        drawable="camera2" />
+    <item component="ComponentInfo{com.kugou.android/com.kugou.android.app.splash.SplashActivity}"
+        drawable="kugou" />
+
+    <item component="ComponentInfo{com.nbc.datatransfer/com.nbc.datatransfer.DataTransferMainActivity}"
+        drawable="datatransfer" />
+    <item component="ComponentInfo{com.nbc.filemanager/com.fihtdc.filemanager.FileManager}"
+        drawable="filemanager" />
+    <item component="ComponentInfo{com.evenwell.voicenote/com.evenwell.voicenote.MainActivity}"
+        drawable="voiceassistant" />
+    <item component="ComponentInfo{com.nbc.willcloud.themestore/com.nbc.willcloud.athenasdk.views.LoadingActivity}"
+        drawable="themestore" />
+    <item component="ComponentInfo{com.redteamobile.global.roaming/com.redteamobile.roaming.activity.MainActivity}"
+        drawable="roaming" />
+
+    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}"
+        drawable="mm" />
+</PreferenceScreen>
